@@ -1,4 +1,4 @@
-package com.heatherwenzel.sdjpaintro;
+package com.heatherwenzel.springdatademo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

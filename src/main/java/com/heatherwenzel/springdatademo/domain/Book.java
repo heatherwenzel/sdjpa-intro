@@ -1,4 +1,4 @@
-package com.heatherwenzel.sdjpaintro.domain;
+package com.heatherwenzel.springdatademo.domain;
 
 import javax.persistence.*;
 import java.util.Objects;

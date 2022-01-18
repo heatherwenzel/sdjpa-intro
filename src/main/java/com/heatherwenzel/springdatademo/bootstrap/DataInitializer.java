@@ -1,7 +1,7 @@
-package com.heatherwenzel.sdjpaintro.bootstrap;
+package com.heatherwenzel.springdatademo.bootstrap;
 
-import com.heatherwenzel.sdjpaintro.domain.Book;
-import com.heatherwenzel.sdjpaintro.repositories.BookRepository;
+import com.heatherwenzel.springdatademo.domain.Book;
+import com.heatherwenzel.springdatademo.repositories.BookRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
